@@ -1,0 +1,14 @@
+{
+  "name": "crystalos-pilot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A dependency-free project for testing managed Claude with Crystal.",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "build": "node --check demo/index.mjs",
+    "start": "node demo/index.mjs"
+  }
+}
