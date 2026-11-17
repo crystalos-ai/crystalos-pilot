@@ -1,0 +1,10 @@
+Meridian Bank account statement (synthetic sample)
+Account: MB-TEST-000139
+Period: 2026-10-01 to 2026-10-31
+Opening balance: 1433.00 GBP
+2026-10-19  Cash withdrawal     -378.88
+2026-10-22  Direct debit        -332.55
+2026-10-23  Cash withdrawal     -577.90
+2026-10-26  Salary credit        131.28
+2026-10-31  Transfer in           98.89
+Closing balance: 373.84 GBP
