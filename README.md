@@ -17,7 +17,7 @@ Synthetic sample data lives in `data/` and `statements/`.
 ## Requirements
 
 Python 3.10 or later. The code uses the standard library only, so there is
-nothing to install.
+nothing to install, and `requirements.txt` lists no packages.
 
 ## Run the tests
 

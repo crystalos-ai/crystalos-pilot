@@ -3,3 +3,4 @@ __pycache__/
 var/
 out/
 *.sqlite3
+.venv/
